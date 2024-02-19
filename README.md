@@ -1,14 +1,14 @@
 # Hospital Design Website
 
-# Description
+## Description
 
 This is a responsive website template for a hospital design, featuring modern design elements and functionalities. It includes sections for home, about, services, doctors, bookings, reviews, and contact information.
 
-# Demo
+## Demo
 
 https://kingtshire.github.io/hospital.design
 
-# Features
+## Features
 
 Responsive Design: The website is designed to work seamlessly across various devices, including desktops, tablets, and smartphones.
 
@@ -20,14 +20,14 @@ Form Submission: The website includes a booking form where users can submit appo
 
 Social Media Integration: Users can easily access the hospital's social media profiles through the provided links in the footer section.
 
-# Usage
+## Usage
 Navigation: Click on the navigation links in the header section to scroll to different sections of the website.
 
 Booking Appointment: Fill out the booking form in the bookings section with your name, contact number, email, and preferred date. Click on the "Book Now" button to submit the appointment request.
 
 Social Media Links: Click on the social media icons in the footer section to visit the hospital's social media profiles.
 
-# Credits
+## Credits
 
 Design: Tshireletso P. Tshielo
 
