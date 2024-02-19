@@ -4,6 +4,10 @@
 
 This is a responsive website template for a hospital design, featuring modern design elements and functionalities. It includes sections for home, about, services, doctors, bookings, reviews, and contact information.
 
+# Demo
+
+https://kingtshire.github.io/hospital.design
+
 # Features
 
 Responsive Design: The website is designed to work seamlessly across various devices, including desktops, tablets, and smartphones.
